@@ -1,2 +1,4 @@
-# NLP-tutorial-DSC22
-Modern NLP through practical problems tutorial at Data Science Conference Europe 2022
+# Modern NLP through practical problems
+ Tutorial at [Data Science Conference Europe 2022](https://datasciconference.com/).
+ 
+ Authors: Andrej Miščič, Luka Vranješ
